@@ -8,7 +8,7 @@ title: Home
 
 ## Bio
 
-Here's a brief bio about myself...
+MS student at College of Engineering at the Georgia Institude of Technology
 
 ## Research Projects
 
